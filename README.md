@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 #### 📫 How to reach me
 
 - Twitter: [@henriquemageste](https://twitter.com/henriquemageste)
-- Email: [github@hmageste.de](mailto://github@hmageste.de)
+<!--
+- Email: [github@hmageste.com](mailto://github@hmageste.com)
+-->
