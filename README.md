@@ -10,7 +10,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 📊 My stats
+
+<img align="right" alt="hmageste's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hmageste&count_private=1&show_icons=true&" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmageste)
+
+---
+
+#### 📫 How to reach me
+
+- Twitter: [@henriquemageste](https://twitter.com/henriquemageste)
+- Email: [github@hmageste.de](mailto://github@hmageste.de)
