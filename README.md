@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 #### 📊 My stats
 
-<img align="right" alt="hmageste's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hmageste&count_private=1&show_icons=true&" />
+<img align="right" alt="hmageste's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hmageste&count_private=1&show_icons=true&" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmageste)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hmageste)
 
 ---
 
